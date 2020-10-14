@@ -16,7 +16,7 @@ public class EurekaApplication {
 	}
 	
 	public void test() {
-		System.out.println("hi");
+		System.out.println("hi4");
 	}
 
 }
