@@ -14,5 +14,9 @@ public class EurekaApplication {
 		SpringApplication.run(EurekaApplication.class, args);
 		System.out.println("hey master496r");
 	}
+	
+	public void test() {
+		System.out.println("hi4");
+	}
 
 }
